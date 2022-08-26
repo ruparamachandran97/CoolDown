@@ -1,0 +1,39 @@
+
+#title{
+  background-color: #ff4c68;
+}
+
+.top-container{
+  background-color: #f7f8fa;
+  text-align: center;
+  height: 500px;
+ position: relative;
+}
+
+.top-container-text{
+  position: absolute;
+  margin: 100px 200px;
+
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #6c7686;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: rgb(108, 118, 134);
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: white;
+}

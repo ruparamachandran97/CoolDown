@@ -1,0 +1,47 @@
+
+#title{
+  background-color: #ff4c68;
+}
+
+.top-container{
+  background-color: #f7f8fa;
+  text-align: center;
+  height: 500px;
+
+}
+.QA{
+  background-color: #ffffff;
+  height: 300px;
+  width:70%;
+  margin: 200px auto;
+  border-radius: 50px;
+  padding: 1% 5%;
+  font-size: 1.5rem;
+  }
+.answer{
+  color: #505359;
+  font-size: 1rem;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #d8dde8;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #6c7686;
+}
+h2{
+  font-size: 2rem;
+  line-height: 1.5;
+  color: rgb(108, 118, 134);
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: white;
+}
